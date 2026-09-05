@@ -1,1 +1,4 @@
-
+node_modules/
+appstate.json
+config.json
+.env
