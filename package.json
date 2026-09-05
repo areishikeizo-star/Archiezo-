@@ -1,1 +1,12 @@
-
+{
+  "name": "Archiezo",
+  "version": "1.0.0",
+  "description": "Facebook personal account bot with owner restriction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fca-project-origen": "^1.3.13"
+  }
+}
